@@ -77,13 +77,14 @@ POWERLEVEL9K_HIDE_BRANCH_ICON=true
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   bundler
-  rails
   ruby
+  rails
   rake
   rbenv
-  zsh-completions
-  git
+  git 
+  zsh-syntax-highlighting
   zsh-autosuggestions
+  zsh-completions
 )
 
 source $ZSH/oh-my-zsh.sh
