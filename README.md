@@ -1,5 +1,5 @@
-# ZSH CONFIGURATION
-Zsh configuration for download and use on our own machine's configuration.
+# Oh-my-Zsh Configuration
+configuration suit for Oh-my-Zsh.
 
 To install Oh-my-Zsh: https://github.com/robbyrussell/oh-my-zsh
 
