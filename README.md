@@ -7,3 +7,4 @@ Recomended install all plugins in:
 ```
 /home/{user_directory}/.oh-my-zsh/custom/plugins
 ```
+¿Issues with Prompt? check this: https://github.com/bhilburn/powerlevel9k/wiki/Troubleshooting
